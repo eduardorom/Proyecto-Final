@@ -122,6 +122,17 @@ main .sobre-nosotros{
     font-weight: 300;
     text-align: justify;
 }
+.servicio-cont{
+    display: flex;
+}
+a {
+    color:rgb(11, 26, 163);
+    text-decoration:none;
+}
+a:hover {
+    color:black;
+    background-color:lightgray;
+}
 
 /* Galeria */
 
